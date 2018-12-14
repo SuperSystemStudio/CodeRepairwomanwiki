@@ -1,5 +1,5 @@
 | permission | root | everyone |
 | :------: | :------: | :------: |
-| settings | √ | √ |
+| settings | all | easy |
 | stop | √ | X |
 | run | √ | √ |
