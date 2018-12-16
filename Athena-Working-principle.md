@@ -1,1 +1,1 @@
-![about ssh](http://lmagestorage.oss-cn-beijing.aliyuncs.com/About%20ssh.JPG?Expires=1544892595&OSSAccessKeyId=TMP.AQHbYLcRB4_FHOHF0_M7sY0WPZyaqnHrpoRWimS0vQbuPW7xL_4UdcCeyfT_ADAtAhR77E_y_1izkzQgUOCe4ekWEeSMsAIVAPXxR0pKX_oSTgmnnFiKBLjeRtqv&Signature=1iDh2M%2F168dhb6W%2Bw4P9gpMwpZ4%3D)
+![about ssh](https://almagestorage.oss-us-west-1.aliyuncs.com/About%20ssh.JPG?Expires=1545031900&OSSAccessKeyId=TMP.AQFOCYy0ELEmgm85TNvkgVOXiNbsqQ7V49K9nHporZjIAB7lJVqvnsF9u6FSADAtAhQlrqN_CttJRo7wePoDVJ4496JecgIVAJ48JerWsnDMX6zjiXwenLIKo9eZ&Signature=W84Ur%2BZb3rz%2FelR74zymdI%2BGHVg%3D)
